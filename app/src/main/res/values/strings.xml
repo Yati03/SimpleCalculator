@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="bouton_minus">-</string>
+    <string name="bouton7">7</string>
+    <string name="bouton_7">7</string>
+    <string name="bouton_8">8</string>
+    <string name="bouton_9">9</string>
+    <string name="bouton_add">+</string>
+    <string name="bouton_4">4</string>
+    <string name="bouton_5">5</string>
+    <string name="bouton_6">6</string>
+    <string name="bouton_1">1</string>
+    <string name="bouton_2">2</string>
+    <string name="bouton_3">3</string>
+    <string name="bouton_divide">/</string>
+    <string name="bouton_clear">C</string>
+    <string name="bouton_0">0</string>
+    <string name="bouton_dot">.</string>
+    <string name="bouton_multiply">*</string>
+    <string name="bouton_result">=</string>
+</resources>
